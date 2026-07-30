@@ -1,0 +1,6 @@
+Model,Test_Accuracy,Test_F1_Score
+bert-base-cased,0.7015,0.7017
+twitter-roberta-base-sentiment-latest,0.7558,0.7554
+distilbert-base-uncased-finetuned-sst-2-english,0.6957,0.6961
+albert-base-v2,0.6941,0.6933
+bertweet-base,0.7171,0.7198

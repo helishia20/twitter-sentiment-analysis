@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1_Score,Arm,Learning_Rate,Optimizer,Preprocessing,Max_Sequence_Length,Epochs_Trained,FineTune_Strategy
+bert-base-cased,0.7026,0.7036,0.7026,0.7014,2_preprocessing,2e-05,AdamW,raw,96,1,full
+twitter-roberta-base-sentiment-latest,0.7854,0.7859,0.7854,0.7856,1_lr_optimizer,2e-05,SGD,raw,96,2,full
+distilbert-base-uncased-finetuned-sst-2-english,0.6962,0.6966,0.6962,0.6962,3_sequence_length,2e-05,AdamW,raw,128,2,full
+albert-base-v2,0.6935,0.6956,0.6935,0.6935,2_preprocessing,2e-05,AdamW,cleaned,96,1,full
+bertweet-base,0.7316,0.7325,0.7316,0.7315,3_sequence_length,2e-05,AdamW,raw,64,1,full

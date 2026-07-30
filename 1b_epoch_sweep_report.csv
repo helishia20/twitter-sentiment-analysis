@@ -1,0 +1,11 @@
+Model,Total_Epochs,Dev_F1_Score,Test_Accuracy,Test_F1_Score
+bert-base-cased,2,0.6939,0.7015,0.7017
+bert-base-cased,4,0.6835,0.6948,0.6933
+twitter-roberta-base-sentiment-latest,2,0.7535,0.7558,0.7554
+twitter-roberta-base-sentiment-latest,4,0.7422,0.742,0.7422
+distilbert-base-uncased-finetuned-sst-2-english,2,0.6924,0.6957,0.6961
+distilbert-base-uncased-finetuned-sst-2-english,4,0.6831,0.6852,0.6841
+albert-base-v2,2,0.6937,0.6941,0.6933
+albert-base-v2,4,0.6572,0.6727,0.6641
+bertweet-base,2,0.7128,0.7171,0.7198
+bertweet-base,4,0.7213,0.722,0.7213

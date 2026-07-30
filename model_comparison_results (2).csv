@@ -1,0 +1,8 @@
+,Accuracy,Precision,Recall,F1-Score
+bert-base-cased,0.7049,0.7052,0.7049,0.7048
+twitter-roberta-base-sentiment-latest,0.7581,0.7576,0.7581,0.7567
+distilbert-base-uncased-finetuned-sst-2-english,0.6977,0.6999,0.6977,0.6985
+albert-base-v2,0.6955,0.6939,0.6955,0.6942
+bertweet-base,0.732,0.7314,0.732,0.7303
+deberta-v3-base,0.446,0.1989,0.446,0.2751
+electra-base-discriminator,0.714,0.718,0.714,0.714
